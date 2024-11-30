@@ -2,7 +2,6 @@
 
 ## Overview
 The **Smart Mail Notification System** is an IoT project designed to notify users via email whenever a physical signal (e.g., mail received) is detected. The system uses an ESP32/ESP8266 microcontroller and Gmail's SMTP server to deliver email alerts in real-time.
-
 ---
 
 ## Features
@@ -25,7 +24,6 @@ The **Smart Mail Notification System** is an IoT project designed to notify user
 - **Connections**:
   - `GPIO15` for signal input
   - `GPIO2` for onboard LED (status indicator)
-
 ---
 
 ## Setup Instructions
