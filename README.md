@@ -19,7 +19,6 @@ The **Smart Mail Notification System** is an IoT project designed to notify user
 - **Arduino Core for ESP32/ESP8266**
 
 ---
-
 ## Hardware Requirements
 - **Microcontroller**: ESP32/ESP8266
 - **Sensor**: Any digital signal input device (e.g., mail detection sensor).
